@@ -91,7 +91,7 @@ Threat intelligence enrichment using VirusTotal and AbuseIPDB identified both IP
 
 **Impact Assessment**
 
-- At the time of investigation:
+At the time of investigation:
 - No confirmed compromise was identified
 - No successful authentication occurred
 - No system confirmed impacted beyond authentication attempts
@@ -112,10 +112,10 @@ The following actions were performed during the investigation:
 
 **Recommendations**
 
-Enforce strong password policies with a minimum length of 10 characters, including uppercase and lowercase letters, numbers, and special characters. 
-Use multi-factor authentication. Where possible, also enable multi-factor authentication on externally facing services.
-Review and close unnecessary open ports exposed to external networks.
- Set up account lockout policies. 
+- Enforce strong password policies with a minimum length of 10 characters, including uppercase and lowercase letters, numbers, and special characters. 
+- Use multi-factor authentication. Where possible, also enable multi-factor authentication on externally facing services.
+- Review and close unnecessary open ports exposed to external networks.
+- Set up account lockout policies. 
 
 **Conclusion**
  
