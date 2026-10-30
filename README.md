@@ -103,7 +103,7 @@ The activity is assessed as a failed brute-force logon attempt targeting remote 
 The following actions were performed during the investigation:
 
 - Authentication logs were analysed for possible unauthorised successful logons on host mts-contractorpc1
-- IOC enrichment conducted through VirusTotal and AbuseIPDB
+- IOC enrichment was conducted through VirusTotal and AbuseIPDB
 - IP addresses were added to the blocklist to prevent further unauthorized access attempts. 
 - Process event logs were analysed on host mts-contractorpc1 for possible malicious service or process creation beyond the incident time frame.
 - Device event logs were analysed for possible malicious events on host mts-contractorpc1
